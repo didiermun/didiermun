@@ -30,7 +30,7 @@ with using Vue, React and Svelte for Frontend Development
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=didiermunezer38&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/didiermunezer38">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=didiermunezer38&show_icons=true&theme=light&line_height=27" alt="Didien's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=didiermunezer38&&count_private=true&show_icons=true&include_all_commits=true&show_icons=true&show_icons=true&theme=light&line_height=27" alt="Didien's github stats"/>
 </a>
 
 

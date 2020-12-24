@@ -1,11 +1,11 @@
 ### Hi there 👋
 - I am Didier Munezero
-- 🔭 I’m Software developer(Full stack from Backend to Frontend).
+- 🔭 I’m Software developer.
 - Currently using Nodejs and Spring for Backend Development
 with using Vue, React and Svelte for Frontend Development
 - 👯 I’m looking to collaborate with other content creators and tech staffs.
 - 💬 Ask me about future of Coding
-- 🥅 Forward Looking Goals: Contribute more to Open Source projects
+- 🥅 Forward Looking Goals: Contribute more to Open Source projects and keep growing in this software development career
 
 ### Connect with me:
 
@@ -20,6 +20,7 @@ with using Vue, React and Svelte for Frontend Development
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://avatars1.githubusercontent.com/u/28507035?s=200&v=4"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>

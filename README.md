@@ -1,5 +1,4 @@
-### Hi there 👋
-- I am Didier Munezero
+### Hi there 👋 I am Didier Munezero
 - 🔭 I’m Software developer.
 - Currently using Nodejs and Spring for Backend Development
 with using Vue, React and Svelte for Frontend Development

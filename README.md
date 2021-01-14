@@ -3,7 +3,6 @@
 - Currently using Nodejs and Spring for Backend Development
 with using Vue, React and Svelte for Frontend Development
 - 👯 I’m looking to collaborate with other content creators and tech staffs.
-- 💬 Ask me about future of Coding
 - 🥅 Forward Looking Goals: Contribute more to Open Source projects and keep growing in this software development career
 
 ### Connect with me:

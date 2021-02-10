@@ -30,9 +30,9 @@ with using Vue, React and Svelte for Frontend Development
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
 <br/>
 <a href="https://github.com/didiermunezer38">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=didiermunezer38&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmunezero&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/didiermunezer38">
+<a href="https://github.com/dmunezero">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=didiermunezer38&count_private=true&show_icons=true&include_all_commits=true&show_icons=true&theme=light" alt="Didien's github stats"/>
 </a>
 
@@ -40,6 +40,6 @@ with using Vue, React and Svelte for Frontend Development
 
 [twitter]: https://twitter.com/DidierMUNEZERO4
 [linkedin]: https://www.linkedin.com/in/didier-munezero-07b849194/
-[github]: https://www.github.com/in/didiermunezer38/
+[github]: https://www.github.com/in/dmunezero/
 
 

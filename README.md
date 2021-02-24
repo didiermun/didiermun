@@ -1,45 +1,124 @@
-### Hi there 👋 I am Didier Munezero
-- 🔭 I’m Software developer.
-- Currently using Nodejs and Spring for Backend Development
-with using Vue, React and Svelte for Frontend Development
-- 👯 I’m looking to collaborate with other content creators and tech staffs.
-- 🥅 Forward Looking Goals: Contribute more to Open Source projects and keep growing in this software development career
-### You can see
-<a href="https://read.vercel.app/lessons/lesson">https://read.vercel.app/lessons/lesson</a>
-### Connect with me:
+# [![waylon walker header](https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/gh-bannner-light-holiday.jpg)](https://waylonwalker.com)
 
-[<img align="left" alt="Didien | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Didien | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Didien | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+<p>
+  <a href="https://waylonwalker.com/latest-story.png"><img width="150" align='right' src="https://waylonwalker.com/latest-story.png"></a>
+</p>
 
-<br />
+<p align='center'>
+<a href="https://dev.to/didiermunezer38"><img height="30" src="https://raw.githubusercontent.com/didiermunezero/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
+<a href="https://dev.to/didiermunezer38"><img height="30" src="https://github.com/didiermunezero/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/didiermunzer38"><img height="30" src="https://github.com/didiermunezero/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.buymeacoffee.com/teGTE"><img height="30" src="https://github.com/didiermunezero/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/didier-munezero-07b849194//"><img height="30" src="https://github.com/didiermunezero/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
 
 
-### Languages and Tools:  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://avatars1.githubusercontent.com/u/28507035?s=200&v=4"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://fivethree.gallerycdn.vsassets.io/extensions/fivethree/vscode-svelte-snippets/0.5.0/1594651938076/Microsoft.VisualStudio.Services.Icons.Default"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
-<br/>
-<a href="https://github.com/didiermunezer38">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmunezero&theme=light&hide_langs_below=1" />
+
+
+Hey there 👋,
+
+I create blog posts and open source packages mainly about python and data engineering.  I have a passion for learning and sharing my knowledge with others a public as possible.  You can see a full list of what I am up to on [http://read.didiermunezer38.vercel.app/](http://read.didiermunezer38.vercel.app/).  If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/bBdtGye), give me a shout out [@didiermunezer38](https://twitter.com/_waylonwalker), give some ♥ on [DEV.to/didiermunezer38](https://dev.to/didiermunezer38), or sign up for my newsletter  at http://read.didiermunezer38.vercel.app/.com/lesson/lesson  I would love to see you join.
+
+
+  ---
+ 
+ <p>
+  <img width="250" align='left' src="https://github.com/didiermunezero/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+</p>
+ 
+### Boy Scout Rule
+
+I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
+
+ ---
+
+<p>
+  <a href="https://http://read.didiermunezer38.vercel.app/.com/"><img width="300" align='right' src="http://read.didiermunezer38.vercel.app/?raw=true"></a>
+</p>
+
+### My Digital Garden 🌱
+
+I write regular blog posts, most of which you will find on my personal website [http://read.vercel.app/](https://read.vercel.app) and [dev.to/waylonwalker](https://dev.to/didiermunezer38).
+
+I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **javascript**. 
+
+[Latest Post 👉](https://read.vercel.app/latest)
+
+
+💌 Sign up for my [newsletter](https://read.vercel.app/login/)
+
+---
+
+### <img height="30" style="border-radius:50%" src="https://github.com/didiermunezero/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers
+
+
+<!--
+## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _258_
+
+<a href='https://twitter.com/natterstefan'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1255562113629802498/nTk-e7L5_normal.jpg' />
 </a>
-<a href="https://github.com/dmunezero">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=dmunezero&count_private=true&show_icons=true&include_all_commits=true&show_icons=true&theme=light" alt="Didien's github stats"/>
+
+<a href='https://twitter.com/natterstefan'>
+    Stefan Natter 🇦🇹👋🏻
 </a>
 
+I am interested in and talking about JavaScript, ReactJS, CSS, and Software Engineering ♥️ | 📧 https://t.co/Jpwh9TFgNx (🐈🐈 🤵👰🏻 🇦🇹)
 
+<h2></h2><a href='https://twitter.com/commanderquest'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1243185628864528384/eFnPWZyC_normal.jpg' />
+</a>
 
-[twitter]: https://twitter.com/DidierMUNEZERO4
-[linkedin]: https://www.linkedin.com/in/didier-munezero-07b849194/
-[github]: https://www.github.com/in/dmunezero/
+<a href='https://twitter.com/commanderquest'>
+    Commander Quest
+</a>
 
+On a mission to the furthest frontiers of tech and talent. 
+Follow my adventures at Club Freelance's Mission Control Center 👉 https://t.co/D4k36nU2at
+
+<h2></h2><a href='https://twitter.com/benjaminwardcom'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1283469746055385088/sr9ZExwG_normal.jpg' />
+</a>
+
+<a href='https://twitter.com/benjaminwardcom'>
+    Benjamin Ward
+</a>
+
+software engineer, dev coach, Star Wars fanatic, learning enthusiast, host of the Download Knowledge Podcast https://t.co/V2bIR93cQW
+
+<h2></h2><a href='https://twitter.com/tucker_dev'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1284727066160705536/VhioFBZE_normal.jpg' />
+</a>
+
+<a href='https://twitter.com/tucker_dev'>
+    James Tucker
+</a>
+
+software engineer at @soonastudios. career switcher. vue + rails. tweeting about tech, books, startups, and big ideas. writing @ https://t.co/SPyap1XFWD. he/him
+
+<h2></h2><a href='https://twitter.com/BenGuthmiller'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1284966756906409984/MR0a9hi2_normal.jpg' />
+</a>
+
+<a href='https://twitter.com/BenGuthmiller'>
+    Ben Guthmiller
+</a>
+
+Data and Analytics Leader @IBM | Minnesota State Alum | #Technologist | #Investor | Tweets are my own opinions
+
+<h2></h2>
+-->
+<p align='center'>
+<!-- <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=waylonwalker.visitor-badge"> -->
+ <p/>
+<div align="center">
+	<br>
+	<a href="https://raw.githubusercontent.com/didiermunezero/waylonwalker/main/follower.svg">
+		<img src="follower.svg" width="800" height="140">
+	</a>
+</div>
+
+## Stargazers
+
+[![Stargazers repo roster for @waylonwalker/waylonwalker](https://reporoster.com/stars/didiermunezero/didiermunezero)](https://github.com/didiermunezero/didiermunezero/stargazers)
 

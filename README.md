@@ -19,3 +19,4 @@ _____________,'      ,',_____|      |    | |
 _____________|','   ///_/-------------/   |
               |===========,'
 ```
+![](https://github-readme-stats.vercel.app/api?username=didiermunezero&show_icons=true&count_private=true)

@@ -1,4 +1,4 @@
-### Hello Friend! I am Didier Munezero
+### Hello Friend! I am Munezero
 
 ## Stats
 

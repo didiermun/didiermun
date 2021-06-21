@@ -1,4 +1,5 @@
-### Hello Friend! I am Munezero
+Hello there!
+### I am Munezero
 
 ## Stats
 

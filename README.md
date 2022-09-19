@@ -1,4 +1,4 @@
-Hello there!
+Hi 👋!
 ### I am Munezero Didier
 
 ## Stats

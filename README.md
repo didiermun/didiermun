@@ -1,5 +1,5 @@
 Hi 👋!
-### I am Munezero Didier
+### I am Didier Munezero
 
 ## Stats
 
